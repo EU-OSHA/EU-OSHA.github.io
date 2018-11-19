@@ -126,16 +126,21 @@ pre.highlight code {
   padding-top: 20px;
   padding-bottom: 20px;
 }
+.blog-logo {
+  float: left;
+  margin-top: 30px;
+}
 .blog-title {
   margin-top: 30px;
   margin-bottom: 0;
-  font-size: 60px;
+  font-size: 50px;
   font-weight: normal;
   color: inherit;
 }
 .blog-description {
   font-size: 20px;
   color: #777;
+  margin-top: 55px;
 }
 
 
