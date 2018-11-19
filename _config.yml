@@ -16,7 +16,7 @@ permalink: /404.html
 
 # Site settings
 title: "EU-OSHA documentation website"
-baseurl: "/docs" # will be prepended to nav-links, css, js etc.
+baseurl: "" # will be prepended to nav-links, css, js etc.
 
 # Build settings
 defaults:
