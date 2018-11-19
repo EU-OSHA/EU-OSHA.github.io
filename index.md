@@ -8,7 +8,7 @@ title: Welcome to the EU-OSHA documentation hub
 
 ### EU-OSHA
 
-EU-OSHA is the European Union information agency for occupational safety and health.
+EU-OSHA is the European Union information agency for occupational safety and health. Our work contributes to the European Commission’s Strategic Framework for Safety and Health at work 2014-2020  and other relevant EU strategies and programmes, such as Europe 2020.
 
 ## What is covered here
 
