@@ -1,5 +1,7 @@
 - text: Home
   url: /
+- text: The EU-OSHA CMS platform
+  url: /EU-OSHA-CMS
 - subitems:
   - source: generated
     subitems:
@@ -131,8 +133,6 @@
   - source: generated
     text: Buildout for EU-OSHA corporate
     url: !!python/unicode '/IT-systems/archive.osha.corporate.buildout'
-- text: The EU-OSHA CMS platform
-  url: /EU-OSHA-CMS
 - text: Development guidelines
   url: /Development-guidelines
 - text: Documentation guidelines
