@@ -16,7 +16,7 @@ Here in the repository (https://github.com/eu-osha/docs/tree/gh-pages),
 
 1. add a new folder in the format `My-new-folder-name`
 2. add a new file to the folder named `index.md`
-3. update https://github.com/eu-osha/docs/blob/gh-pages/_data/menu.yml accordingly. Each menu item is described by two lines - first line is the menu title, second line is the URL to the folder just created.
+3. update https://github.com/eu-osha/eu-osha.github.io/blob/gh-pages/_data/menu.yml accordingly. Each menu item is described by two lines - first line is the menu title, second line is the URL to the folder just created.
 
 ## To update documentation within "IT-systems" section
 
