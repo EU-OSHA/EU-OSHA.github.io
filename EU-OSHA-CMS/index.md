@@ -4,10 +4,6 @@ title: EU-OSHA CMS platform
 
 ## Introduction
 
-## Getting started for users
-
-## Getting started for developers
-
 ## Features and architecture overview
 
 ### Main features
