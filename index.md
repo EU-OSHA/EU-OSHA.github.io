@@ -16,8 +16,7 @@ EU-OSHA is the European Union information agency for occupational safety and hea
 
 Text text.
 
-### IT-systems
-
+### EU-OSHA CMS platform
 
 ## Is this site for you?
 
