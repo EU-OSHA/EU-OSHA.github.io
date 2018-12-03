@@ -12,11 +12,8 @@ EU-OSHA is the European Union information agency for occupational safety and hea
 
 ## What is covered here
 
-### Drupal systems
-
-Text text.
-
 ### EU-OSHA CMS platform
+Built in Drupal 7, here you can find all the customisations made.
 
 ## Is this site for you?
 
